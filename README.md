@@ -39,10 +39,10 @@ TODO Stand up aka.ms links and update time / timezone iso values + add speakers
 * **February 22nd @ 9 AM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231127T190000&p1=1244) - Join live:** [Fabric AI Hack Together Workshop - Building RAG Application on Microsoft Fabric & Azure Open AI
 ](https://aka.ms/hacktogether/fabricai/session3)
 * **February 27th @ 9 AM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231128T220000&p1=1244) - Join live:** [Fabric AI Hack Together Workshop - Building a Credit Card Fraud Detection System on Microsoft Fabric
-](https://aka.ms/hacktogether/dotnet/session3)
-* **February 29th @ 9 AM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Fabric AI Hack Together Wrap Up - How to submit and get ready for Fabric Community Conf](https://aka.ms/hacktogether/dotnet/session4)
+](https://aka.ms/hacktogether/dotnet/session4)
+* **February 29th @ 9 AM Pacific [![Convert to your timezone](https://img.shields.io/badge/convert_to_your_timezone_%F0%9F%8C%8D-green)](https://www.timeanddate.com/worldclock/converter.html?iso=20231204T230000&p1=1244) - Join live:** [Fabric AI Hack Together Wrap Up - How to submit and get ready for Fabric Community Conf](https://aka.ms/hacktogether/dotnet/session5)
 
-### #03 - Submit your project
+### #03 - Submit your project until March 3rd 23:59 PM PST
 
 You may submit your project here when it's ready: 🚀 [Project Submission](https://github.com/microsoft/hack-together-fabric-ai/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)
 
@@ -58,13 +58,13 @@ For a great example of a community developed solution that demonstrates a high-q
 
 [Tracking International Space Station with Microsoft Fabric](https://github.com/anshulsharmas/fabric-iss-demo)
 
-This solution is a great example because:
+This solution is a great example because it:
 * Solves a real-world problem in a novel way using Microsoft Fabric
-* It is shared publicly via a GitHub repo
+* Is shared publicly via a GitHub repo
 * Has clear documentation and instructions to reproduce the solution 
 * Includes a [video](https://www.youtube.com/watch?v=-HhU7yLyuUU) demonstrating the solution in action
 
-That said, this solution could be even better aligned to the Hackathon by:
+That said, this solution could be better aligned to the Hackathon by:
 * Incorporating Azure OpenAI into the solution
 * Making use of Copilot for Fabric features
 
@@ -99,24 +99,24 @@ That said, this solution could be even better aligned to the Hackathon by:
 
 ## Judging and Prizes 🏆
 
-Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include alignment with corresponding hackathon category, documentation / reusability, and innovation / impact (defined in more detail below).
 
-The winning teams will receive the following exciting prizes (up to 3 individuals if submitting as a team, prizes distributed per team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Fabrtic product roadmap. One lucky grand prize winner will have the opportunity to showcase their project to attendees during the Power Hour session at the upcoming [Microsoft Fabric Community Conference](https://fabricconf.com/).
+The winning teams will receive the following exciting prizes (up to 3 individuals if submitting as a team, prizes distributed per team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Fabric product roadmap. One lucky grand prize winner will have the opportunity to showcase their project to attendees during the Power Hour session at the upcoming [Microsoft Fabric Community Conference](https://fabricconf.com/).
 
-**🏆 Grand Prize winner:** _The best of the best! This category rewards the solution that meets all judging criteria, wows judges, has potential real-world value, and demonstrates innovative use of Artificial Intelligence._
+**🏆 Grand Prize winner:** _The best of the best! This category rewards the solution that meets all judging criteria, wows judges, has potential real-world value, and demonstrates innovative use of Artificial Intelligence in Microsoft Fabric._
 
 * Opportunity to present at Microsoft Fabric Community Conference including pass for the event
 * $500 gift card 
 * Fabric blanket(s)
 * Fabric Hoodie(s)
 
-**🥇 Best Real-World AI application built with Microsoft Fabric:** _A solution that solves a real world problem with Microsoft Fabric by implementing any concept or collection of concepts related Artificial Intelligence.  This could include utilization of RAG to fine-tune an LLM, training an object detection model, anomaly detection, predictive forecasting, or any other modern [application of AI within Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/use-ai-samples)._
+**🥇 Best Real-World AI application built with Microsoft Fabric:** _A solution that solves a real world problem with Microsoft Fabric by implementing any concept or collection of concepts related to Artificial Intelligence.  This could include utilization of RAG to fine-tune an LLM, training an object detection model, anomaly detection, predictive forecasting, or any other modern [application of AI within Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/use-ai-samples)._
 
 * $500 gift card 
 * Fabric blanket(s)
 * Fabric Hoodie(s)
 
-**🥇 Best use of Microsoft Fabric + Azure OpenAI:** _A solution that speifically uses [Azure OpenAI service(s) within Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/open-ai) to solve a real-world problem. This could include a document analysis service that uses Azure OpenAI to semantically tag content or utilize vector search to implement a [retrieval augmented generation](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview) architecture.  It could even make use of DALL·E 2 to genearte images based on semantic processing of text data_.  Simply pu, if it uses Azure OpenAI inside of Microsoft Fabric, it most definitely fits into this category!
+**🥇 Best use of Microsoft Fabric + Azure OpenAI:** _A solution that specifically uses [Azure OpenAI service(s) alongside Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/open-ai) to solve a real-world problem. This could include a document analysis service that uses Azure OpenAI to semantically tag content or utilize vector search to implement a [retrieval augmented generation](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview) architecture.  It could even make use of DALL·E 2 to genearte images based on semantic processing of text data_.  Simply put, if it uses Azure OpenAI inside of Microsoft Fabric, it most definitely fits into this category!
 
 * $500 gift card 
 * Fabric blanket(s)
