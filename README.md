@@ -1,6 +1,6 @@
 # Hack Together: The Microsoft Fabric Global AI Hack
 
-![The Microsoft Fabric Global AI HackTogether Banner](./images/logo.png)
+![The Microsoft Fabric Global AI HackTogether Banner](./images/FabricHackBanner3.png)
 
 ## Introduction
 
