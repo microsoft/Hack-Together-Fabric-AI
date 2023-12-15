@@ -8,15 +8,17 @@
 
 The Microsoft Fabric Global AI Hack is your playground for creating and experimenting with Microsoft Fabric. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build AI solutions with Microsoft Fabric! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
-The hackathon starts on **February 15th** and ends on **March 4th** (just ahead of the [Microsoft Fabric Community Conference](https://fabricconf.com/)) - where one lucky winner or team will recieve passes to attend in-person!). It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+The hackathon starts on **February 15th** and ends on **March 4th** (just ahead of the [Microsoft Fabric Community Conference](https://fabricconf.com/) - where one lucky winner or team will recieve passes to attend in-person!). It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
 ## Hack Together Roadmap
 
 Follow the steps below to successfully complete the hackathon.
 
+![The Microsoft Fabric Global AI HackTogether Roadmap](./images/roadmap.png)
+
 ### #00 - Prerequisites
 
-**Register to for the Microsoft Fabric Global AI HackTogether event**: https://aka.ms/hacktogether/fabric-ai/register
+**Register to for the Microsoft Fabric Global AI HackTogether event**: Note: The link to register is coming soon!
 
 **You will need to have access to a Microsoft Fabric capacity. If you don’t have one, you can obtain a Microsoft Fabric trial license by following these [instructions](https://aka.ms/upgrade-to-fabric).** 
 
