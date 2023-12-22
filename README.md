@@ -8,7 +8,7 @@
 
 The Microsoft Fabric Global AI Hack is your playground for creating and experimenting with Microsoft Fabric. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build AI solutions with Microsoft Fabric! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
 
-The hackathon starts on **February 15th** and ends on **March 4th** (just ahead of the [Microsoft Fabric Community Conference](https://fabricconf.com/) - where one lucky winner or team will recieve passes to attend in-person!). It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+The hackathon starts on **February 15th** and ends on **March 4th** (just ahead of the [Microsoft Fabric Community Conference](https://fabricconf.com/) - where one lucky winner or team will receive passes to attend in-person!). It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
 ## Hack Together Roadmap
 
@@ -18,7 +18,7 @@ Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Prerequisites
 
-**Register to for the Microsoft Fabric Global AI HackTogether event**: Note: The link to register is coming soon!
+**Register to for the Microsoft Fabric Global AI HackTogether event**: https://aka.ms/hacktogether/fabric-ai/register
 
 **You will need to have access to a Microsoft Fabric capacity. If you don’t have one, you can obtain a Microsoft Fabric trial license by following these [instructions](https://aka.ms/upgrade-to-fabric).** 
 
@@ -27,7 +27,7 @@ Follow the steps below to successfully complete the hackathon.
 **Planning on hacking with Microsoft Fabric + Azure OpenAI?** We're able to offer no-cost, limited access to Azure OpenAI - no Azure account needed. We will have more details as we near closer to the event start date.
 
 ### #01 - Start hacking on February 15th
-Either team up (max 3 team members) or fly solo to join the hacking! Make sure to register for Hack Together before starting to build your project.
+Either team up (max 3 team members) or fly solo to join the hacking! Make sure to [register for Hack Together](https://aka.ms/hacktogether/fabric-ai/register) before starting to build your project.
 
 ### #02 - Join live sessions for learning and inspiration
 
@@ -93,6 +93,43 @@ That said, this solution could be better aligned to the Hackathon by:
 * [Overview of Copilot for Data Science and Data Engineering](https://learn.microsoft.com/en-us/fabric/get-started/copilot-notebooks-overview)
 * [Copilot for Data Factory overview](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory)
 
+## Judging and Prizes 🏆
+
+Projects will be evaluated by a panel of judges, including Microsoft executives, product managers, and developer advocates. Judging criteria will include alignment with corresponding hackathon category, documentation / reusability, and innovation / impact (defined in more detail below).
+
+The winning teams will receive the following exciting prizes (up to 3 individuals if submitting as a team, prizes distributed per team). Winning solutions and/or product feedback may also be considered for integration into the Microsoft Fabric product roadmap.
+
+>**Hack Together winners will be selected as per the following judging criteria:**
+>
+>* 25% - **Alignment with hackathon category** - Does the solution fit into one or more of the three Hackathon Categories (Best Real-World AI application built with Microsoft Fabric, Best use of Microsoft Fabric + Azure OpenAI, Best use of Copilot for Microsoft Fabric) 
+>* 25% - **Innovation / Impact** - Does the solution have real-world relevance? Does the solution solve a clearly defined problem that could be beneficial to others?  
+>* 25% - **Documentation / Reproducibility** – Is the solution clearly documented in a GitHub repo that makes it easy for other to follow along and reproduce your solution? Is a video demonstration included in the submission? 
+>* 25%  - **Video Demonstration** – Does the project submission include a link to a video demonstration of the solution in action?  Does the video clearly depict the solution’s use of Microsoft Fabric features and capabilities and demonstrate how the solution makes use of artificial intelligence? 
+
+**🏆 Grand Prize winner:** _The best of the best! This category rewards the solution that meets all judging criteria, wows judges, has potential real-world value, and demonstrates innovative use of Artificial Intelligence in Microsoft Fabric._
+
+* Up to three (3) passes to attend the Microsoft Fabric Community Conference*. Approximate Retail Value (ARV) $1,849.00 USD each. 
+* Up to $500 USD per team member to be awarded in accordance with Section 10 (Participation Gratuity Options of official contest rules). Approximate Retail Value (ARV) $500 each. 
+* Up to three (3) Microsoft Fabric SWAG packages - hoodie and blanket. Approximate Retail Value (ARV) $80.00 USD each. 
+
+__Note: Conference passes include admission only. Airfare, hotel, or any other related travel costs are the sole responsibility of the winner.__ 
+
+**🥇 Best Real-World AI application built with Microsoft Fabric:** _A solution that solves a real world problem with Microsoft Fabric by implementing any concept or collection of concepts related to Artificial Intelligence.  This could include utilization of RAG to fine-tune an LLM, training an object detection model, anomaly detection, predictive forecasting, or any other modern [application of AI within Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/use-ai-samples)._
+
+* Up to $500 USD per team member, to be awarded in accordance with Section 10 (Participation Gratuity Options of official contest rules). Approximate Retail Value (ARV) $500 each. 
+* Up to three (3) Microsoft Fabric SWAG packages - hoodie and blanket. Approximate Retail Value (ARV) $80.00 USD each. 
+
+**🥇 Best use of Microsoft Fabric + Azure OpenAI:** _A solution that specifically uses [Azure OpenAI service(s) alongside Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/open-ai) to solve a real-world problem. This could include a document analysis service that uses Azure OpenAI to semantically tag content or utilize vector search to implement a [retrieval augmented generation](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview) architecture.  It could even make use of DALL·E 2 to genearte images based on semantic processing of text data_.  Simply put, if it uses Azure OpenAI inside of Microsoft Fabric, it most definitely fits into this category!
+
+* Up to $500 USD per team member, to be awarded in accordance with Section 10 (Participation Gratuity Options of official contest rules). Approximate Retail Value (ARV) $500 each. 
+* Up to three (3) Microsoft Fabric SWAG packages - hoodie and blanket. Approximate Retail Value (ARV) $80.00 USD each. 
+
+**🥇 Best use of Copilot for Microsoft Fabric:** _A solution that makes use of one or more [Copilots for Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview). This could include any combination of [Copilot for Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction),[Copilot for Data Science and Data Engineering](https://learn.microsoft.com/en-us/fabric/get-started/copilot-notebooks-overview), and / or [Copilot for Data Factory](https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory)._
+
+* Up to $500 USD per team member, to be awarded in accordance with Section 10 (Participation Gratuity Options of official contest rules). Approximate Retail Value (ARV) $500 each. 
+* Up to three (3) Microsoft Fabric SWAG packages - hoodie and blanket. Approximate Retail Value (ARV) $80.00 USD each. 
+
+**🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ## Contributing
 
