@@ -22,7 +22,7 @@ Follow the steps below to successfully complete the hackathon.
 
 **You will need to have access to a Microsoft Fabric capacity. If you don’t have one, you can obtain a Microsoft Fabric trial license by following these [instructions](https://aka.ms/upgrade-to-fabric).** 
 
-**Introduce yourself**, we'd like to get to know you! 🥳 We will update with a link to the Fabric Community Hack Together Discussion forum on January 15 as we near closer to the event.
+**Introduce yourself**, we'd like to get to know you! 🥳 [Join the Hack Together discussion board on the Microsoft Fabric Community site](https://aka.ms/FBC_HackTogether)!
 
 **Planning on hacking with Microsoft Fabric + Azure OpenAI?** We're able to offer no-cost, limited access to Azure OpenAI - no Azure account needed. We will have more details as we near closer to the event start date.
 
@@ -49,7 +49,7 @@ Check out this video for step by step project submission guidance: [Project Subm
 
 There will be a grand prize winner out of all projects as well as a 'Best Real-World AI application built with Microsoft Fabric', 'Best use of Microsoft Fabric + Azure OpenAI', and 'Best use of Copilot for Microsoft Fabric' so it is important to align your hack to one of these categories.
 
-We'd love to hear about your project, tell us what you are working on!
+We'd love to hear about your project, [tell us what you are working on](https://aka.ms/FBC_HackTogether)!
 
 For a great example of a community developed solution that demonstrates a high-quality submission for this Hackathon, check out:  
 
