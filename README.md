@@ -35,11 +35,11 @@ Note: These links will go live as we near the event start date.
 
 [![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)]()
 
-* **February 15th @ 9 AM Pacific - Join live: Fabric AI Hack Together Kickoff: Ready, Set Hack: Do more with AI in Microsoft Fabric**
-* **February 20th @ 9 AM Pacific - Join live: Fabric AI Hack Together Workshop - Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset**
-* **February 22nd @ 9 AM Pacific - Join live: Fabric AI Hack Together Workshop - Building RAG Application on Microsoft Fabric & Azure Open AI**
-* **February 27th @ 9 AM Pacific - Join live: Fabric AI Hack Together Workshop - Building a Credit Card Fraud Detection System on Microsoft Fabric**
-* **February 29th @ 9 AM Pacific - Join live: Fabric AI Hack Together Wrap Up - How to submit and get ready for Fabric Community Conf**
+* **February 15th @ 9 AM PST - Join live: [Fabric AI Hack Together Kickoff: Ready, Set Hack: Do more with AI in Microsoft Fabric](https://aka.ms/hacktogether/fabricai/session1)**
+* **February 20th @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset](https://aka.ms/hacktogether/fabricai/session2)**
+* **February 22nd @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building RAG Application on Microsoft Fabric & Azure Open AI](https://aka.ms/hacktogether/fabricai/session3)**
+* **February 27th @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building a Credit Card Fraud Detection System on Microsoft Fabric](https://aka.ms/hacktogether/fabricai/session4)**
+* **February 29th @ 9 AM PST - Join live: [Fabric AI Hack Together Wrap Up - How to submit and get ready for Fabric Community Conf](https://aka.ms/hacktogether/fabricai/session5)**
 
 ### #03 - Submit your project until March 3rd 23:59 PM PST
 
