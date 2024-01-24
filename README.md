@@ -33,7 +33,7 @@ Either team up (max 3 team members) or fly solo to join the hacking! Make sure t
 
 Note: These links will go live as we near the event start date.
 
-[![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)]()
+[![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://thnnyg.dm.files.1drv.com/y4mmwKADkW0BGUxNrqj-op4g3Of8rORs3QpSCFB0YDzC_L9Q7p6wIlY5_Oxz7nFnf_Y2SIoUqye67nQcWOIt243Gq38XuZnpimrCE3f0cGAH-RQ01DscP-B8BfA_dySkp-kpD7dEYyyy-BK6bHG90dfBalw8GPfIpiu7bX740gYuE0Yj2nCp6S_xIhy43hTDeYRh8ZGuxpysLrt9vWzbIXd2g)
 
 * **February 15th @ 9 AM PST - Join live: [Fabric AI Hack Together Kickoff: Ready, Set Hack: Do more with AI in Microsoft Fabric](https://aka.ms/hacktogether/fabricai/session1)**
 * **February 20th @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset](https://aka.ms/hacktogether/fabricai/session2)**
