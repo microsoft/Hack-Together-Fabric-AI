@@ -35,6 +35,7 @@ Note: These links will go live as we near the event start date.
 
 [![Calendar Invite](https://img.shields.io/badge/ADD%20TO%20CALENDAR-4285F4?style=for-the-badge&label=&labelColor=555555&logoColor=white&logo=googlecalendar)](https://thnnyg.dm.files.1drv.com/y4mmwKADkW0BGUxNrqj-op4g3Of8rORs3QpSCFB0YDzC_L9Q7p6wIlY5_Oxz7nFnf_Y2SIoUqye67nQcWOIt243Gq38XuZnpimrCE3f0cGAH-RQ01DscP-B8BfA_dySkp-kpD7dEYyyy-BK6bHG90dfBalw8GPfIpiu7bX740gYuE0Yj2nCp6S_xIhy43hTDeYRh8ZGuxpysLrt9vWzbIXd2g)
 
+* **February 13th @ 10 AM PST - Join live: [Fabric Webinar Series: Getting Started with Microsoft Fabric in 60 Minutes](https://aka.ms/fabric-sys-init)**
 * **February 15th @ 9 AM PST - Join live: [Fabric AI Hack Together Kickoff: Ready, Set Hack: Do more with AI in Microsoft Fabric](https://aka.ms/hacktogether/fabricai/session1)**
 * **February 20th @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset](https://aka.ms/hacktogether/fabricai/session2)**
 * **February 22nd @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building RAG Application on Microsoft Fabric & Azure Open AI](https://aka.ms/hacktogether/fabricai/session3)**
