@@ -48,24 +48,25 @@ To get hacking with AI this event you'll need both the endpoint and key to put i
 > **Never commit your keys to a Git repository or share them publically.**
 
 ### Model details
-For this event you have access to the four models below. You'll need to use the model names from the table below in your code. 
+For this event you have access to the four models below. You'll need to use the **model names from the table** below in your code. 
 *You have up to 2000 requests per model per day.*
 
-| Model  | Model Name  | Docs | Example (Python)| Example (.NET) |
+| Model  | Model Name  | Docs | Example (Python)*| Example (.NET)** |
 |---|---|---|---|---|
-| GTP-3.5  |  gtp-35-turbo-16k | [GTP-3.5 Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-35) |   |   |
-| GTP-4 |  gtp-4 | [GTP-4 Docs](httphttps://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-4-and-gpt-4-turbo-preview) |   |   |
-| Embeddings |  text-embedding-ada-002 | [Embeddings Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#embeddings-models) |   |   |
-| DALL-E 4 |  dall-e-3 | [DALL-E Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#dall-e-preview) |   |   |
+| GTP-3.5  |  gtp-35-turbo | [GTP-3.5 Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-35) | [Azure OpenAI Chat - Python ](https://github.com/microsoft/azure-openai-service-proxy/blob/main/examples/python/openai_sdk_1.x/azure_openai_chat.py) | [Azure OpenAI Chat - .NET ](https://github.com/microsoft/azure-openai-service-proxy/tree/main/examples/dotnet/azure_chat_completions) | 
+| GTP-3.5 (Turbo) |  gtp-35-turbo-16k | [GTP-3.5 Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-35) | As above, change model name | As above, change model name | 
+| GTP-4 |  gtp-4 | [GTP-4 Docs](httphttps://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-4-and-gpt-4-turbo-preview) | As above, change model name | As above, change model name |
+| Embeddings |  text-embedding-ada-002 | [Embeddings Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#embeddings-models) | [Azure OpenAI Embeddings - Python ](https://github.com/microsoft/azure-openai-service-proxy/blob/main/examples/python/openai_sdk_1.x/azure_openai_embeddings.py) | [Azure OpenAI Embeddings - .NET ](https://github.com/microsoft/azure-openai-service-proxy/tree/main/examples/dotnet/azure_openai_embeddings) |
+| DALL-E 4 |  dall-e-3 | [DALL-E Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#dall-e-preview) | [Azure OpenAI DALL-E - Python ](https://github.com/microsoft/azure-openai-service-proxy/blob/main/examples/python/openai_sdk_1.x/azure_openai_dalle3.py) | [Azure OpenAI DALL-E - .NET ](https://github.com/microsoft/azure-openai-service-proxy/tree/main/examples/dotnet/azure_openai_dalle) |
 
 *The models we are using are all hosted in the Sweden Central region. You won't need that information for your hacking purposes.*
 
-#### More Python Info
+#### More Python Info*
 For more guidence on using Python with Azure OpenAI you can check out the [OpenAI Python API library](AzureOpenAI) on PyPi for the docs, how to set up your environemnt variables, and for some simple examples. 
 
 *This will give you an explination of how to set up a .env file to store your keys and endpoints and to use dot_env the library to access your keys and enpoints (this is used in the Python examples listed in the table).*
 
-#### More on .NET
+#### More .NET Info**
 For more guidence on using .NET with Azure OpenAI, check out the [Azure OpenAi client Library for .NET](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview). 
 
 To run the examples from the table above you will need to add two envrionement variables:
