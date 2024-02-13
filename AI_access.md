@@ -13,27 +13,29 @@ To gain access:
 
 2. Login with GitHub using the button in the top-right corner
 
-![Img]()
+![Screenshot of registration page with arrow pointing to top right corner.](/images/proxy1.png, "Click login with GitHub")
 
-3. Once logged in, you have access to the your API key for this event, click the copy icon. **Keep this handy!**
+3. Once logged in, you have access to the your API key for this event, click the copy icon. **Keep this handy, for the following steps and for your hacking!**
 
-![Img]()
+![Screenshot of proxy site page with arrow pointing to the copy button next to API Key.](/images/proxy2.png, "Click the copy button to copy your key")
 
 4. Go to the AI Proxy Playground at this URL: [https://aka.ms/Hacktogether-AI-playground](https://aka.ms/Hacktogether-AI-playground)
 
-![Img]()
 
-5. Enter your API key in the text box in the top-right corner and click *Authorize*
+5. Enter your API key in the text box in the top-right corner and click ***Authorize***
 
-![Img]()
+![Screenshot of proxy playground page with arrow pointing to API text entry field and authorize button.](/images/proxy3.png, "Enter your key and hit 'Authorize'")
 
 6. You should now see the event name "Hack Together Fabric AI" in the top-right corner!
 
-![Img]()
+![Screenshot of proxy playground page with a tick and an arrow pointing to the event name "Hack Together Fabric AI" that appears once you have succesfully entered a key for the event.](/images/proxy4.png, "When you see the event name you have succesfully entered your key")
 
 7. You're ready to test your set up, do this on this page by writing a message in the **Chat Session**. You should receive a message back in a few sedconds! *(You won't be able to test using the Image tab, because DALLE.2 is not enabled for this workshop.)*
 
-![Img]()
+![Screenshot of proxy playground page with an arrow pointing to the input field, where the message "Hello" has been writen].](/images/proxy5.png, "Test the service using the Chat feature by writing a message")
+
+8. Once you receive a message you know you are ready to hack!
+![Screenshot of proxy playground where the AI has responded with a message that says "Hello! How can I assist you today?".](/images/proxy6.png, "When you receive a response you are ready to hack!")
 
 ## Using the Endpoint 
 
@@ -51,7 +53,5 @@ For this event we have provided access to a few specific models. **You have up t
 | DALL.E 4 |  text-embedding-ada-002 |   |   |   |
 
 *The models we are using are all hosted in the Sweden Central region. You won't need that information for your hacking purposes.*
-
-
 
 
