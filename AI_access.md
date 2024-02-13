@@ -4,7 +4,7 @@
 
 By using our Azure OpenAI Proxy service you'll get access to keys and endpoints that work just like the real ones you get from using the Azure Portal and Azure OpenAI Studio to deploy your own models. 
 
-When you get access to Azure OpenAI yourself, all you need to do is switch over your endpoints and keys to get up and running on your own resources
+When you get access to Azure OpenAI yourself, all you need to do is switch over your endpoints and keys to get up and running on your own resources.
 
 Here you'll see how to **[get started](#get-started)** by gaining access to our proxy server. Then see how to **[get hacking](#Get-Hacking)** using the endpoint, key, and models. You will also find some examples here for each of the models and how to use them, for Python and .NET. 
 
@@ -18,7 +18,7 @@ To gain access:
 2. **Login with GitHub** using the button in the top-right corner
 ![Screenshot of registration page with arrow pointing to top right corner.](images/proxy1.png  "Click login with GitHub")
 
-3. Once logged in, you have access to the your API key for this event, click the copy icon. **Keep your key handy, for the following steps and for your hacking!**  
+3. Once logged in, you have access to your API key for this event, click the copy icon. **Keep your key handy, for the following steps and for your hacking!**  
 ![Screenshot of proxy site page with arrow pointing to the copy button next to API Key.](images/proxy2.png "Click the copy button to copy your key")
 
 4. **Go to the AI Proxy Playground** at this URL: [https://aka.ms/Hacktogether-AI-playground](https://aka.ms/Hacktogether-AI-playground)
@@ -30,7 +30,7 @@ To gain access:
 6. **You should now see the event name** "Hack Together Fabric AI" in the top-right corner!
 ![Screenshot of proxy playground page with a tick and an arrow pointing to the event name "Hack Together Fabric AI" that appears once you have succesfully entered a key for the event.](images/proxy4.png "When you see the event name you have succesfully entered your key")
 
-7. **You're ready to test your set up**, do this on this page by writing a message in the **Chat Session**. You should receive a message back in a few sedconds!
+7. **You're ready to test your set up**, do this on this page by writing a message in the **Chat Session**. You should receive a message back in a few seconds!
 ![Screenshot of proxy playground page with an arrow pointing to the input field, where the message /Hello" has been writen.](images/proxy5.png "Test the service using the Chat feature by writing a message")
 
 8. **Once you receive a message you know you are ready to hack!**
@@ -45,9 +45,9 @@ To get hacking with AI this event you'll need both the endpoint and key to put i
 >
 > **Key:** Use the key you got in step 3 above.
 > 
-> **Never commit your keys to a Git repository or share them publically.**
+> **Never commit your keys to a Git repository or share them publicly.**
 
-### Model details
+### Model Details
 For this event you have access to the four models below. You'll need to use the **model names from the table** below in your code. 
 *You have up to 2000 requests per model per day.*
 
@@ -62,13 +62,13 @@ For this event you have access to the four models below. You'll need to use the 
 *The models we are using are all hosted in the Sweden Central region. You won't need that information for your hacking purposes.*
 
 #### More Python Info*
-For more guidence on using Python with Azure OpenAI you can check out the [OpenAI Python API library](AzureOpenAI) on PyPi for the docs, how to set up your environemnt variables, and for some simple examples. 
+For more guidance on using Python with Azure OpenAI you can check out the [OpenAI Python API library](AzureOpenAI) on PyPi for the docs, how to set up your environment variables, and for some simple examples. 
 
-*This will give you an explination of how to set up a .env file to store your keys and endpoints and to use dot_env the library to access your keys and enpoints (this is used in the Python examples listed in the table).*
+You'll need to add two environment variables to run the examples: ENDPOINT_URL and API_KEY. *The PyPi docs give a good example on how to set up a .env file to store your keys and endpoints and to use dot_env the library to access your keys and endpoints (dot_env is used in the Python examples listed in the table).*
 
 #### More .NET Info**
-For more guidence on using .NET with Azure OpenAI, check out the [Azure OpenAi client Library for .NET](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview). 
+For more guidance on using .NET with Azure OpenAI, check out the [Azure OpenAi client Library for .NET](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview). 
 
-To run the examples from the table above you will need to add two envrionement variables:
+To run the examples from the table above you will need to add two environment variables:
 YOUR_AZURE_OPENAI_PROXY_URL , set this to the endpoint provided above. 
 YOUR_EVENT_AUTH_TOKEN , set this to your event key.
