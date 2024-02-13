@@ -6,6 +6,8 @@ By using our Azure OpenAI Proxy service you'll get access to keys and endpoints 
 
 When you get access to Azure OpenAI yourself, all you need to do is switch over your endpoints and keys to get up and running on your own resources
 
+Here you'll see how to [get started](#get-started) by gaining access to our proxy server, and then see how to [get hacking](#Get-Hacking) using the endpoint, key, and models. 
+
 ## Get started
 To gain access:
 
@@ -32,19 +34,23 @@ To gain access:
 8. **Once you receive a message you know you are ready to hack!**
 ![Screenshot of proxy playground where the AI has responded with a message that says "Hello! How can I assist you today?".](images/proxy6.png "When you receive a response you are ready to hack!")
 
-## Using the Endpoint 
+## Get Hacking 
+### Using the Endpoint and Key
+To get hacking with AI this event you'll need both the endpoint and key to put into your own code creations! 
 
 **Endpoint**: https://polite-ground-030dc3103.4.azurestaticapps.net/api/v1
 
 **Key:** Use the key you got in step 3 above.
 
-For this event we have provided access to a few specific models. **You have up to 2000 requests per model per day.**
+### Model details
+For this event you have access to the four models below. You'll need to use the model names from the table below in your code. 
+*You have up to 2000 requests per model per day.*
 
-| Model  | Model Name  | Docs |   |   |
+| Model  | Model Name  | Docs | Example code |   |
 |---|---|---|---|---|
-| GTP 3.5  |  gtp-35-turbo-16k |   |   |   |
-| GTP4 |  gtp-4 |   |   |   |
-| Embeddings |  text-embedding-ada-002 |   |   |   |
-| DALL.E 4 |  text-embedding-ada-002 |   |   |   |
+| GTP-3.5  |  gtp-35-turbo-16k | [GTP-3.5 Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-35) |   |   |
+| GTP-4 |  gtp-4 | [GTP-4 Docs](httphttps://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-4-and-gpt-4-turbo-preview) |   |   |
+| Embeddings |  text-embedding-ada-002 | [Embeddings Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#embeddings-models) |   |   |
+| DALL-E 4 |  dall-e-3 | [DALL-E Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#dall-e-preview) |   |   |
 
 *The models we are using are all hosted in the Sweden Central region. You won't need that information for your hacking purposes.*
