@@ -27,7 +27,9 @@ Follow the steps below to successfully complete the hackathon.
 **Planning on hacking with Microsoft Fabric + Azure OpenAI?** We're able to offer no-cost, limited access to Azure OpenAI - no Azure account needed. We will have more details as we near closer to the event start date.
 
 ### #01 - Start hacking on February 15th
-Either team up (max 3 team members) or fly solo to join the hacking! Make sure to [register for Hack Together](https://aka.ms/hacktogether/fabric-ai/register) before starting to build your project.
+**Either team up (max 3 team members) or fly solo** to join the hacking! Make sure to [register for Hack Together](https://aka.ms/hacktogether/fabric-ai/register) before starting to build your project.
+
+**Get access to our free Azure OpenAI resources** via our proxy. Go to our [AI Access Page](AI_access.md) to get register for your own key for this event. Then see how to get set up, get examples, and start hacking!
 
 ### #02 - Join live sessions for learning and inspiration
 
