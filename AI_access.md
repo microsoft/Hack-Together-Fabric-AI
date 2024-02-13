@@ -6,9 +6,9 @@ By using our Azure OpenAI Proxy service you'll get access to keys and endpoints 
 
 When you get access to Azure OpenAI yourself, all you need to do is switch over your endpoints and keys to get up and running on your own resources.
 
-Here you'll see how to **[get started](#get-started)** by gaining access to our proxy server. Then see how to **[get hacking](#Get-Hacking)** using the endpoint, key, and models. You will also find some examples here for each of the models and how to use them, for Python and .NET. 
+Here you'll see how to **[get started](#get-started)** by gaining access to our proxy server. Then see how to **[get hacking](#get-hacking)** using the endpoint, key, and models. You will also find some examples here for each of the models and how to use them, for Python and .NET. 
 
-**Got Stuck?** If you have any improvements for these instructions let us know in the [GitHub Issues](https://github.com/microsoft/Hack-Together-Fabric-AI/issues) so we can make them better for everyone.
+**Got Stuck?** If you have any improvements for these instructions let us know in the [GitHub Issues](https://aka.ms/fabric-hack24-issues) so we can make them better for everyone.
 
 ## Get started
 To gain access:
@@ -53,21 +53,21 @@ For this event you have access to the four models below. You'll need to use the 
 
 | Model  | Model Name  | Docs | Example (Python)*| Example (.NET)** |
 |---|---|---|---|---|
-| GTP-3.5  |  gtp-35-turbo | [GTP-3.5 Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-35) | [Azure OpenAI Chat - Python ](https://github.com/microsoft/azure-openai-service-proxy/blob/main/examples/python/openai_sdk_1.x/azure_openai_chat.py) | [Azure OpenAI Chat - .NET ](https://github.com/microsoft/azure-openai-service-proxy/tree/main/examples/dotnet/azure_chat_completions) | 
-| GTP-3.5 (Turbo) |  gtp-35-turbo-16k | [GTP-3.5 Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-35) | As above, change model name | As above, change model name | 
-| GTP-4 |  gtp-4 | [GTP-4 Docs](httphttps://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#gpt-4-and-gpt-4-turbo-preview) | As above, change model name | As above, change model name |
-| Embeddings |  text-embedding-ada-002 | [Embeddings Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#embeddings-models) | [Azure OpenAI Embeddings - Python ](https://github.com/microsoft/azure-openai-service-proxy/blob/main/examples/python/openai_sdk_1.x/azure_openai_embeddings.py) | [Azure OpenAI Embeddings - .NET ](https://github.com/microsoft/azure-openai-service-proxy/tree/main/examples/dotnet/azure_openai_embeddings) |
-| DALL-E 4 |  dall-e-3 | [DALL-E Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#dall-e-preview) | [Azure OpenAI DALL-E - Python ](https://github.com/microsoft/azure-openai-service-proxy/blob/main/examples/python/openai_sdk_1.x/azure_openai_dalle3.py) | [Azure OpenAI DALL-E - .NET ](https://github.com/microsoft/azure-openai-service-proxy/tree/main/examples/dotnet/azure_openai_dalle) |
+| GTP-3.5  |  gtp-35-turbo | [GPT-3.5 Docs](https://aka.ms/fabric-hack24-python-docs-gtp35) | [Azure OpenAI Chat - Python ](https://aka.ms/fabric-hack24-python-eg-chat) | [Azure OpenAI Chat - .NET ](https://aka.ms/fabric-hack24-dotnet-eg-chat) | 
+| GTP-3.5 (Turbo) |  gtp-35-turbo-16k | [GTP-3.5 Docs](https://aka.ms/fabric-hack24-python-docs-gtp35) | As above, change model name | As above, change model name | 
+| GTP-4 |  gtp-4 | [GTP-4 Docs](https://aka.ms/fabric-hack24-python-docs-gtp4) | As above, change model name | As above, change model name |
+| Embeddings |  text-embedding-ada-002 | [Embeddings Docs](https://aka.ms/fabric-hack24-python-docs-embeddings) | [Azure OpenAI Embeddings - Python ](https://aka.ms/fabric-hack24-python-eg-embeddings) | [Azure OpenAI Embeddings - .NET ](https://aka.ms/fabric-hack24-dotnet-eg-embeddings) |
+| DALL-E 4 |  dall-e-3 | [DALL-E Docs](https://aka.ms/fabric-hack24-python-docs-dalle) | [Azure OpenAI DALL-E - Python ](https://aka.ms/fabric-hack24-python-eg-dalle) | [Azure OpenAI DALL-E - .NET ](https://aka.ms/fabric-hack24-dotnet-eg-dalle) |
 
 *The models we are using are all hosted in the Sweden Central region. You won't need that information for your hacking purposes.*
 
 #### More Python Info*
-For more guidance on using Python with Azure OpenAI you can check out the [OpenAI Python API library](AzureOpenAI) on PyPi for the docs, how to set up your environment variables, and for some simple examples. 
+For more guidance on using Python with Azure OpenAI you can check out the [OpenAI Python API library](https://aka.ms/fabric-hack24-python) on PyPi for the docs, how to set up your environment variables, and for some simple examples. 
 
 You'll need to add two environment variables to run the examples: ENDPOINT_URL and API_KEY. *The PyPi docs give a good example on how to set up a .env file to store your keys and endpoints and to use dot_env the library to access your keys and endpoints (dot_env is used in the Python examples listed in the table).*
 
 #### More .NET Info**
-For more guidance on using .NET with Azure OpenAI, check out the [Azure OpenAi client Library for .NET](https://learn.microsoft.com/en-us/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview). 
+For more guidance on using .NET with Azure OpenAI, check out the [Azure OpenAI client Library for .NET](https://aka.ms/fabric-hack24-dotnet). 
 
 To run the examples from the table above you will need to add two environment variables:
 YOUR_AZURE_OPENAI_PROXY_URL , set this to the endpoint provided above. 
