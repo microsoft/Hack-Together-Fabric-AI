@@ -36,7 +36,8 @@ To gain access:
 8. **Once you receive a message you know you are ready to hack!**
 ![Screenshot of proxy playground where the AI has responded with a message that says "Hello! How can I assist you today?".](images/proxy6.png "When you receive a response you are ready to hack!")
 
-***If you get an error** when trying out the chat feature try refreshing and if that fails, hard refreshing (CTRL + SHIFT + R) your browser. If it doesn't work after a few times take a screen shot of the error and leave us a a message in the [GitHub Issues](https://aka.ms/fabric-hack24-issues).*
+***If you get an error** when trying out the chat feature try refreshing and if that fails, hard refreshing (CTRL + SHIFT + R) your browser. If it doesn't work after a few times take a screen shot of the error and leave us a message in the [GitHub Issues](https://aka.ms/fabric-hack24-issues).*
+
 
 ## Get Hacking 
 ### Using the Endpoint and Key
@@ -49,7 +50,9 @@ To get hacking with AI this event you'll need both the endpoint and key to put i
 > 
 > **Never commit your keys to a Git repository or share them publicly.**
 
-*If at any point your code runs and a request returns without content, runyour code again (maybe a couple of times) and it should work. This is the expected behaviour of Azure OpenAI some of the time.*
+
+*If at any point your code runs and a request returns without content, run your code again (maybe a couple of times) and it should work. This is the expected behaviour of Azure OpenAI some of the time.*
+
 
 ### Model Details
 For this event you have access to the four models below. You'll need to use the **model names from the table** below in your code. 
