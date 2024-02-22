@@ -30,10 +30,16 @@ To gain access:
 6. **You should now see the event name** "Hack Together Fabric AI" in the top-right corner!
 ![Screenshot of proxy playground page with a tick and an arrow pointing to the event name "Hack Together Fabric AI" that appears once you have succesfully entered a key for the event.](images/proxy4.png "When you see the event name you have succesfully entered your key")
 
-7. **You're ready to test your set up**, do this on this page by writing a message in the **Chat Session**. You should receive a message back in a few seconds!
+7. **You're ready to test your set up**, first you need to choose a model in the pannel on the right-hand side. GTP models are used for running/testing in the chat, choose one to get started.
+![Screenshot of proxy playground page with an arrow pointing to the Model Deployment field](images/proxy4-1.png "Set the Model Deployment")<br><br>
+We recomend one of the GTP-35 models just for the purposes of testing the playground quickly.
+![Screenshot of proxy playground page with an arrow pointing to the Model Deployment drop down selecting gpt-35-turbo](images/proxy4-2.png "Set your model, GTP 3.5 options are fastest in this playground.")
+
+
+8. You're ready to go, write a message in the **Chat Session**. You should receive a message back in a few seconds!
 ![Screenshot of proxy playground page with an arrow pointing to the input field, where the message /Hello" has been writen.](images/proxy5.png "Test the service using the Chat feature by writing a message")
 
-8. **Once you receive a message you know you are ready to hack!**
+9. **Once you receive a message you know you are ready to hack!**
 ![Screenshot of proxy playground where the AI has responded with a message that says "Hello! How can I assist you today?".](images/proxy6.png "When you receive a response you are ready to hack!")
 
 ***If you get an error** when trying out the chat feature try refreshing and if that fails, hard refreshing (CTRL + SHIFT + R) your browser. If it doesn't work after a few times take a screen shot of the error and leave us a message in the [GitHub Issues](https://aka.ms/fabric-hack24-issues).*
