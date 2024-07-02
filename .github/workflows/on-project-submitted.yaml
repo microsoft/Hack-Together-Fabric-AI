@@ -28,14 +28,17 @@ jobs:
     #   shell: pwsh
     #   run: |
     #     $eventPayload = ${{ toJson(github) }}
-
+    - name: sanitize input
+      env:
+          TITLE: ${{ github.event.comment.title }}
+          BODY: ${{ github.event.comment.body }}
     - name: Check issue details
       id: issue
       shell: bash
       run: |
           issueNumber=${{ github.event.issue.number }}
-          title=${{ toJSON(github.event.issue.title) }}
-          body=${{ toJSON(github.event.issue.body) }}
+          title=$TITLE
+          body=$BODY
           createdAt="${{ github.event.issue.created_at }}"
           githubId="${{ github.event.issue.user.login }}"
           assignee="${{ github.event.issue.assignee }}"
