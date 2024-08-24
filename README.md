@@ -40,7 +40,7 @@ Note: These links will go live as we near the event start date.
 * **February 13th @ 10 AM PST - Join live: [Fabric Webinar Series: Getting Started with Microsoft Fabric in 60 Minutes](https://aka.ms/fabric-sys-init)**
 * **February 15th @ 9 AM PST - Join live: [Fabric AI Hack Together Kickoff: Ready, Set Hack: Do more with AI in Microsoft Fabric](https://aka.ms/hacktogether/fabricai/session1)**
 * **February 20th @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset](https://aka.ms/hacktogether/fabricai/session2)**
-* **February 22nd @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building RAG Application on Microsoft Fabric & Azure Open AI](https://aka.ms/hacktogether/fabricai/session3)**
+* **February 22nd @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Building RAG Application on Microsoft Fabric & Azure OpenAI](https://aka.ms/hacktogether/fabricai/session3)**
 * **February 27th @ 9 AM PST - Join live: [Fabric AI Hack Together Workshop - Create, Evaluate, and Score a Churn Prediction Model](https://aka.ms/hacktogether/fabricai/session4)**
 * **February 29th @ 9 AM PST - Join live: [Fabric AI Hack Together Wrap Up - How to submit and get ready for Fabric Community Conf](https://aka.ms/hacktogether/fabricai/session5)**
 
